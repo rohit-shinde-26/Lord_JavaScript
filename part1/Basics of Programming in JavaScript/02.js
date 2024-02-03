@@ -1,4 +1,6 @@
 "use strict";
+// It is used to make strict mode in js
+
 // intro to variables
 
 // variables can store some information
@@ -19,3 +21,5 @@ console.log(firstName);
 firstName = "Rudra";
 
 console.log(firstName);
+
+// Var is declared,updatable and redeclared
