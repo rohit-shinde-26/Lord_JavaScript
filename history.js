@@ -3,14 +3,14 @@ console.log("-------------------------------- 1995 -----------------------------
 // Netscape Navigator (Browser) popular it think to make persnol programming language to make interact in websites.
 // Brendan Eich in that company who make js in 10 days
 // they firstly name it to MOKA
-// after they give name to Livescript
+// after they give name from MOKA to Livescript
 // it cant make it popular as thry think
 // that time more popular language is java
 // due to low popularity they change name from Livescript to JavaScript.
 
 console.log("-------------------------------- 1996 ---------------------------------------");
 // Internet explorer thinks netscape navigator was very popular due to JS
-// thats why they copy some feature from js some added and named as JScript
+// thats why they copy some feature from js some added externally and named as JScript
 
 // due to 2 language more confusion was create
 
