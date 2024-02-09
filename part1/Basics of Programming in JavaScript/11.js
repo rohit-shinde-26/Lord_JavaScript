@@ -12,7 +12,7 @@ firstName = "Rohit";
 console.log(typeof firstName, firstName);
 
 let myVariable = null;
-console.log(myVariable);
+console.log(typeof myVariable);
 
 myVariable = "Akash";
 console.log(myVariable, typeof myVariable);

@@ -6,7 +6,7 @@ firstName = "Rudra";
 console.log(firstName);
 
 
-// let us updatable but not redeclare 
+// let has updatable but not redeclare 
 let car = "BMW";
 car = "Audi"; // valid | Update
 // let car = "TATA"; // Invalid | redeclare 

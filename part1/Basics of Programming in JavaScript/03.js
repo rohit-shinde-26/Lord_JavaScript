@@ -18,8 +18,8 @@ console.log(value1 ** 0.5); // square root
 // $firstname (valid)
 
 // you cannot use spaces 
-// var first_name = "harshit"; // snake case writing 
-// var firstName = "harshit"; // camel case writing 
+// var first_name = "Rohit"; // snake case writing 
+// var firstName = "rohit"; // camel case writing 
 // first name (invalid)
 
 // convention for pro
