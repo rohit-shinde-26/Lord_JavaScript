@@ -17,7 +17,7 @@ fruits[1] = "banana";
 console.log(fruits);
 console.log(typeof fruits);
 console.log(typeof obj);
-console.log(Array.isArray(fruits));
+console.log(Array.isArray(fruits));  // check the array or not
 console.log(Array.isArray(obj));
 
 
