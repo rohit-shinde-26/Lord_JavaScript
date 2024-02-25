@@ -15,7 +15,7 @@ const person = {
 console.log(person);
 
 // how to access data from objects 
-console.log(person["name"]);  // bidefault in object it comes with string
+console.log(person["name"]);  // bydefault in object it comes with string
 console.log(person["age"]);
 console.log(person.hobbies);
 
