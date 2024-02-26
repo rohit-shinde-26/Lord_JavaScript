@@ -13,7 +13,7 @@ for(let key in person){
     // console.log(key," : " ,person[key]);
 }
 
-// console.log(typeof (Object.keys(person)));
+console.log(typeof (Object.keys(person)));
 const val = Array.isArray((Object.keys(person)));
 console.log(val);
 
