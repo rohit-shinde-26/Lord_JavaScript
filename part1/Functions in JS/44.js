@@ -14,9 +14,15 @@ console.log(sumThreeNumbers(2,5,6))
 
 
 // argument
+// function isEven(number){
+//     return number % 2 === 0;
+// }
 function isEven(number){
-    return number % 2 === 0;
-}
+        if (number % 2 === 0){
+            return true;
+        }
+        return false
+     }
 // parameter
 console.log("Even number is the =>",isEven(4));
 
