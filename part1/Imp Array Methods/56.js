@@ -15,7 +15,7 @@
 // })
 
 const users = [
-    {firstName: "harshit", age: 23},
+    {firstName: "Rohit", age: 23},
     {firstName: "mohit", age: 21},
     {firstName: "nitish", age: 22},
     {firstName: "garima", age: 20},
