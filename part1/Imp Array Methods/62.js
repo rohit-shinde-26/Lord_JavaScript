@@ -2,6 +2,7 @@
 const numbers = [2,4,6,10];
 const ans = numbers.every((num)=> num%2===0)
 console.log(ans)
+// kya sare even hai then true
 
 const userCart = [
     {productId: 1, productName: "mobile", price: 12000},
