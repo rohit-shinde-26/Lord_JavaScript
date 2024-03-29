@@ -1,8 +1,8 @@
 // iterables 
-// jispe hum for of loop laga sakein
+// jispe hum for of loop laga sakein use kehte hain iterables
 // string , array are iterable 
 
-// const firstName = "Harshit";
+// const firstName = "Rohit";
 // for(let char of firstName){
 //     console.log(char);
 // }
@@ -14,9 +14,12 @@ const items = ['item1', 'item2', 'item3'];
 
 // array like object 
 // jinke pas length property hoti hai 
-// aur jiko hum index se access kar sakte hai called iterables
+// aur jiko hum index se access kar sakte hai 
 // example :- string 
 
-// const firstName = "harshit";
+// const firstName = "Rohit";
 // console.log(firstName.length);
 // console.log(firstName[2]);
+
+
+// objects are not iterable
