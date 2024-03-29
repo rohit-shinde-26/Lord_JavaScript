@@ -7,15 +7,19 @@
 // imp
 // unique items only (no duplicates allowed)
 // in set 1 element present only once 
-// const items = ['item1', 'item2', 'item3'];
-const numbers = new Set();
+// const items = ['item1', 'item2', 'item3'];  
+
+
+const numbers = new Set();  // syntax
+
+
 numbers.add(1);
 numbers.add(2);
 numbers.add(3);
 numbers.add(4);
 numbers.add(5);
 numbers.add(6);
-numbers.add(items);
+// numbers.add(items);
 if(numbers.has(1)){
     console.log("1 is present")
 }else{
