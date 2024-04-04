@@ -10,7 +10,7 @@ const obj1 = {
 // [[prototype]]
 
 // __proto__ , [[prototype]]
-
+// object.create() make an __proto__
 
 
 // prototype    
