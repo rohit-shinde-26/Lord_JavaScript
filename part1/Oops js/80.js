@@ -12,7 +12,6 @@ const obj1 = {
 // __proto__ , [[prototype]]
 // object.create() make an __proto__
 
-
 // prototype    
 
 const obj2 = Object.create(obj1); // {}
