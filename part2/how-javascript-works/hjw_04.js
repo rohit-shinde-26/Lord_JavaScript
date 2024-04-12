@@ -6,7 +6,8 @@
 // Uncaught ReferenceError: 
 // firstName is not defined
 
-console.log(firstName);
+console.log(firstName); // uninitialized
+let lastName = "Shinde";
 
 console.log(firstName);
 let firstName;
